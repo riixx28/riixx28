@@ -7,7 +7,7 @@
 <label for="email">البريد الالكتروني:</label><br>
 <input type=:email"placeholder="اكتب عنوان البريد الالكتروني"><br>
 <label for="message">الرسال:</label><br>
-<textarea plaaceholder="رسالتك..."></textarea><br>
+<textarea plaaceholder="رسالتك"></textarea><br>
 <input type="subbmit" value="ارسال">
 </fieldset>
 </form>
