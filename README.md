@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<heaad>
-<title> contact Us </title>
-</head>
-<body>
+
 <form action="http://www.myserver.gr/comments.php>
 <fie ldset>
 <legend>اتصل بنا </legend>
@@ -16,5 +11,4 @@
 <input type="subbmit" value="ارسال">
 </fieldset>
 </form>
-</body>
-</html>
+
